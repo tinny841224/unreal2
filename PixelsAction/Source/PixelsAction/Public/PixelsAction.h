@@ -1,4 +1,6 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+//	not the auto-generated Epic Games text
+//	tinny841224 for PixelsAction
+//	8/8/2020
 
 #pragma once
 
