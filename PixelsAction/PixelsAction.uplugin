@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "4.23.0",
+	"FriendlyName": "PixelsAction",
+	"Description": "A plugin for pixels actions in Texture",
+	"Category": "Other",
+	"CreatedBy": "tinny841224",
+	"CreatedByURL": "250394927@qq.com",
+	"DocsURL": "https://drive.google.com/file/d/1_pQWNFw0AdzItmNNw2SugQWMYccxDRgb/view?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/PixelsAction",
+	"SupportURL": "mailto:250394927@qq.com",
+	"EngineVersion": "4.23.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "PixelsAction",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}
